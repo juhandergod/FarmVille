@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("FIELD - 3:");
 
-        field.putLand(5,1);
+        field.putLand(4,0);
         field.printField();
 
 
